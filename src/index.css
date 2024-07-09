@@ -19,3 +19,33 @@ code {
 .a {
   text-decoration: "none";
 }
+
+#supportHero {
+
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#supportHero a {
+  color: white;
+  line-height: 2.5;
+}
+
+#supportHero ol li {
+  line-height: 2.5;
+}
+
+#supportWrapper {
+
+  display: flex;
+  justify-content: space-around;
+  margin-right: 200px;
+}
+
+#supportHero input {
+  padding: 15px 20px;
+  width: 94%;
+  font-size: 20px;
+  border-radius: 3px;
+  border: none;
+}
