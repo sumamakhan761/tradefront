@@ -32,7 +32,6 @@ function Universe() {
           <img style={{ height: "55px" }} src="media/images/ditto-logo.png" alt='' />
           <p className='text-small text-muted'>Insurance</p>
         </div>
-        <button className='p-2 btn btn-primary fs-5 mb-5 mt-3' style={{ width: "11rem", margin: "0 auto" }}>Sign up now</button>
       </div>
     </div >
   );

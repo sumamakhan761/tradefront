@@ -8,7 +8,6 @@ function OpenAccount() {
         <h1 className='mt-5'>Open a TradingWaves account</h1>
         <p className='fs-5 mt-3'>Modern platforms and apps, ₹0 investments, and flat ₹20 intraday and F&O trades.
         </p>
-        <button className='p-2 btn btn-primary fs-5 mb-5 mt-3' style={{ width: "11rem", margin: "0 auto" }}>Sign up now</button>
       </div>
     </div>
   );

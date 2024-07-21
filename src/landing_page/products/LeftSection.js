@@ -21,10 +21,7 @@ function LeftSection({
           <h1 className='mb-4 fs-2'>{productName}</h1>
           <p style={{ lineHeight: "1.7", fontSize: "1.05em" }}>{productDiscription}</p>
 
-          <div >
-            <a href={tryDemo}>{TryDemo} <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <a href={learnMore} style={{ marginLeft: "3em" }}>learn More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-          </div>
+         
           <div className='mt-3'>
             <a href={googlePlay}><img src='media/images/googleplay.svg' /></a>
             <a href={appStore} style={{ marginLeft: "3em" }}><img src='media/images/appstorebadge.svg' /></a>
